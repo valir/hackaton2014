@@ -1,0 +1,10 @@
+This is QML code for the talk I remotely did at Timisoara Hackaton 2014
+
+Beforing running it, you need Qt5 and this:
+git://gitorious.org/qt-labs/qml-presentation-system.git
+which is described also here:
+http://blog.qt.digia.com/blog/2011/05/30/a-qml-presentation-system/
+
+To start the presentation, run:
+qmlscene --fullscreen hackaton2014
+
