@@ -172,7 +172,8 @@ Presentation
         title: "Trying KDE"
         content: [
             "Several Linux distributions feature KDE as the main Desktop Environment",
-            " Pick yours from here: https://www.kde.org/download/distributions.php"
+            " Pick yours from here: https://www.kde.org/download/distributions.php",
+            "Stay informed: http://planet.kde.org/"
         ]
     }
 
